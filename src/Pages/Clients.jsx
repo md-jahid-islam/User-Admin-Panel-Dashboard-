@@ -1,10 +1,10 @@
 import React from 'react'
+import ClientsComponents from '../Components/Clients/ClientsComponents'
 
 const Clients = () => {
   return (
    <>
-   Clients
-   
+   <ClientsComponents/>  
    </>
   )
 }
